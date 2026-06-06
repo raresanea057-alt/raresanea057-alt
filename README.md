@@ -24,7 +24,7 @@
 | **[ROAI 2026 — Selection Camp Qualifier (IX-XII)](https://judge.nitro-ai.org/competitions/roai-2025/baraj-nationala-2026/leaderboard/complete?participant_name=AneaRares&page=1&page_size=100)** | 🇷🇴 Romania | **Top 10 nationally** |
 | **[ROAI 2026 — Selection Camp GPU Round (IX-XII)](https://judge.nitro-ai.org/competitions/roai-2025/lot-1-2026)** | 🇷🇴 Romania · invite-only | **Top 13 nationally** |
 | **[ROAI 2026 — Selection Camp CPU Round (IX-XII)](https://judge.nitro-ai.org/competitions/roai-2025/lot-2-2026)** | 🇷🇴 Romania · invite-only | **Top 15 nationally** |
-| **[ROAI 2026 — National Stage (XI-XII)]([https://judge.nitro-ai.org/competitions/roai-2025/lot-2-2026](https://judge.nitro-ai.org/competitions/roai-2025/nationala-xi-xii-2026/leaderboard/complete?participant_name=AneaRares&page=1&page_size=100))** | 🇷🇴 Romania · invite-only | **Top 20 nationally** |
+| **[ROAI 2026 — National Stage (XI-XII)](https://judge.nitro-ai.org/competitions/roai-2025/nationala-xi-xii-2026/leaderboard/complete?participant_name=AneaRares&page=1&page_size=100)** | 🇷🇴 Romania · invite-only | **Top 20 nationally** |
 
 
 ---
