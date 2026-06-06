@@ -39,8 +39,7 @@
 
 | Model | Params | F1 |
 |---|---|---|
-| BiLSTM-CRF + casing + rules *(mine)* | ~2M | **0.44** |
-| Romanian BERT *(Avram et al., 2024)* | 125M | 0.66 |
+| BiLSTM-NER + casing + rules | ~2M | **0.44** |
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
