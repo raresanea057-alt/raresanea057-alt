@@ -1,5 +1,4 @@
-
-[Uploading README.md…]()
+[README (1).md](https://github.com/user-attachments/files/28672279/README.1.md)
 <div align="center">
 
 # Rares Anea
@@ -22,13 +21,13 @@
 
 | Competition | Scope | Result |
 |---|---|---|
-| **ROAI 2026 — National Stage (XI-XII)** | 🇷🇴 Romania | **Top 15 nationally** |
-| **ROAI 2026 — Selection Camp GPU Round** | 🇷🇴 Romania · invite-only | `[your rank]` |
-| **ROAI 2026 — Selection Camp CPU Round** | 🇷🇴 Romania · invite-only | `[your rank]` |
-| **IAIO 2026** | 🌍 International | **Romanian national team** |
-| **RISE Final Round** | 🌍 International · invite-only | `[your rank]` |
-| **Algolymp PreONIA XI-XII 2026** | 🌍 International · 84 participants | `[your rank]` |
-| **Nitro NLP Hackathon 5th Edition** | 🌍 International | `[your rank]` |
+| **[ROAI 2026 — National Stage (XI-XII)](https://judge.nitro-ai.org/competitions/roai-2025/nationala-xi-xii-2026)** | 🇷🇴 Romania | **Top 15 nationally** |
+| **[ROAI 2026 — Selection Camp GPU Round](https://judge.nitro-ai.org/competitions/roai-2025/lot-1-2026)** | 🇷🇴 Romania · invite-only | `[your rank]` |
+| **[ROAI 2026 — Selection Camp CPU Round](https://judge.nitro-ai.org/competitions/roai-2025/lot-2-2026)** | 🇷🇴 Romania · invite-only | `[your rank]` |
+| **[IAIO 2026](https://iaio-official.org)** | 🌍 International | **Romanian national team** |
+| **[RISE Final Round](https://judge.nitro-ai.org/competitions/nitro/rise-2026-final)** | 🌍 International · invite-only | `[your rank]` |
+| **[Algolymp PreONIA XI-XII 2026](https://judge.nitro-ai.org/competitions/algolymp/preonia-xi-xii-2026)** | 🌍 International · 84 participants | `[your rank]` |
+| **[Nitro NLP Hackathon 5th Edition](https://judge.nitro-ai.org/competitions/nitro/nitro-nlp-hackathon-2026)** | 🌍 International | `[your rank]` |
 
 ---
 
@@ -55,4 +54,3 @@
 **NLP** — NER · Sequence Labeling · Text Classification  
 **CV** — Image Segmentation · Object Detection  
 **Languages** — Python · C++ · Romanian · English
-
