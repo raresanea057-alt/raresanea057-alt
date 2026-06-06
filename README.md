@@ -3,7 +3,7 @@
 
 # Rares Anea
 
-**11th grade · Tulcea, Romania**
+**11th grade · Vaslui, Romania**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-connect-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/rares-anea-73a246388/)
 [![GitHub](https://img.shields.io/badge/GitHub-raresanea057--alt-181717?style=flat&logo=github)](https://github.com/raresanea057-alt)
