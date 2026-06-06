@@ -22,13 +22,9 @@
 | Competition | Scope | Result |
 |---|---|---|
 | **[ROAI 2026 — Selection Camp Qualifier](https://judge.nitro-ai.org/competitions/roai-2025/baraj-nationala-2026/leaderboard/complete?participant_name=AneaRares&page=1&page_size=100)** | 🇷🇴 Romania | **Top 10 nationally** |
-| **[ROAI 2026 - ]**
-| **[ROAI 2026 — Selection Camp GPU Round](https://judge.nitro-ai.org/competitions/roai-2025/lot-1-2026)** | 🇷🇴 Romania · invite-only | `[your rank]` |
-| **[ROAI 2026 — Selection Camp CPU Round](https://judge.nitro-ai.org/competitions/roai-2025/lot-2-2026)** | 🇷🇴 Romania · invite-only | `[your rank]` |
-| **[IAIO 2026](https://iaio-official.org)** | 🌍 International | **Romanian national team** |
-| **[RISE Final Round](https://judge.nitro-ai.org/competitions/nitro/rise-2026-final)** | 🌍 International · invite-only | `[your rank]` |
-| **[Algolymp PreONIA XI-XII 2026](https://judge.nitro-ai.org/competitions/algolymp/preonia-xi-xii-2026)** | 🌍 International · 84 participants | `[your rank]` |
-| **[Nitro NLP Hackathon 5th Edition](https://judge.nitro-ai.org/competitions/nitro/nitro-nlp-hackathon-2026)** | 🌍 International | `[your rank]` |
+| **[ROAI 2026 — Selection Camp GPU Round](https://judge.nitro-ai.org/competitions/roai-2025/lot-1-2026)** | 🇷🇴 Romania · invite-only | **Top 13 nationally** |
+| **[ROAI 2026 — Selection Camp CPU Round](https://judge.nitro-ai.org/competitions/roai-2025/lot-2-2026)** | 🇷🇴 Romania · invite-only | **Top 15 nationally** |
+| **[ROAI 2026 — Selection Camp CPU Round](https://judge.nitro-ai.org/competitions/roai-2025/lot-2-2026)** | 🇷🇴 Romania · invite-only | **Top 15 nationally** |
 
 ---
 
