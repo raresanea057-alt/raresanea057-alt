@@ -1,4 +1,3 @@
-[README (1).md](https://github.com/user-attachments/files/28672279/README.1.md)
 <div align="center">
 
 # Rares Anea
