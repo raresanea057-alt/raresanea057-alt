@@ -48,9 +48,9 @@
 
 ## 🛠 Skills
 
-**ML** - Classical algorithms for Classification/Regression · Unsupervised Learning 
-**DL** - Optimization techniques · Recurrent Neural Networks · Transformers · Fine-tuning
-**NLP** - NER · Text Classification · Embeddings
-**CV** - Image Segmentation · Object Detection  · Image Classification
-**Computer Languages** - Python · C++ 
-**Languages I speak** - Romanian · English · Learning French
+**ML** - Classical algorithms for Classification/Regression · Unsupervised Learning  
+**DL** - Optimization techniques · Recurrent Neural Networks · Transformers · Fine-tuning  
+**NLP** - NER · Text Classification · Embeddings  
+**CV** - Image Segmentation · Object Detection  · Image Classification  
+**Computer Languages** - Python · C++  
+**Languages I speak** - Romanian · English · Learning French  
